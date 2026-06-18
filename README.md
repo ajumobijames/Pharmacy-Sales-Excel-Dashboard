@@ -16,7 +16,7 @@
 
 ---
 
-## 📖 Project Overview
+##  Project Overview
 
 This project presents a **Pharmacy Sales Dashboard** designed to provide stakeholders with a clear, data-driven view of business performance across multiple European pharmacy locations. The dashboard enables decision-makers to monitor key performance indicators (KPIs), identify top-performing products and stores, understand customer ordering behavior, and track monthly revenue trends — all from a single, interactive interface.
 
@@ -76,7 +76,7 @@ The dataset contains transactional pharmacy sales records across European Health
 
 ---
 
-## 🔍 Analysis & Analytics
+## Analysis & Analytics
 
 ### 1. Revenue & Profitability
 Total revenue of **€8.6M** against a cost base of **€6.2M** yields a gross profit of **€2.4M**, representing a profit margin of approximately **27.9%**.
@@ -101,7 +101,7 @@ Total revenue of **€8.6M** against a cost base of **€6.2M** yields a gross p
 
 ---
 
-## 📈 Results & Findings
+##  Results & Findings
 
 | Metric | Value | Insight |
 |---|---|---|
@@ -116,7 +116,7 @@ Total revenue of **€8.6M** against a cost base of **€6.2M** yields a gross p
 
 ---
 
-## ✅ Conclusion
+##  Conclusion
 
 The Pharmacy Sales Dashboard delivers a comprehensive view of sales performance across European HealthPoint locations. Key takeaways:
 
